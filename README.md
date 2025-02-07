@@ -7,7 +7,7 @@ This repository contains the implementation code for paper:
 
 Anpeng Wu, Haiyi Qiu, Zhengming Chen, Zijian Li, Ruoxuan Xiong, Fei Wu, and Kun Zhang
 
-<[https://arxiv.org/abs/2006.07040](https://openreview.net/forum?id=foQ4AeEGG7)>
+<[Openreview](https://openreview.net/forum?id=foQ4AeEGG7)>
 
 ## Data Availability
 
